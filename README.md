@@ -1,3 +1,13 @@
+# Cardápio de Lanchonete
+
+Este é um projeto de cardápio de lanchonete criado com Vite, ReactJS, Tailwind CSS e TypeScript.
+
+## Visão Geral
+
+Este projeto tem como objetivo criar um cardápio de lanchonete onde os clientes podem visualizar os itens disponíveis para compra.
+
+![Screen](./public/print.png)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
